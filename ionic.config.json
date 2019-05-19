@@ -1,6 +1,8 @@
 {
   "name": "myAppFlow",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "c48ae928"
 }
